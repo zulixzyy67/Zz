@@ -8,3 +8,4 @@ beautifulsoup4
 lxml
 psutil
 aiohttp-socks
+python-3.11.9
