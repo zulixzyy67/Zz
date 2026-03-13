@@ -1,0 +1,10 @@
+python-telegram-bot[webhooks,socks]==21.3
+requests[socks]
+aiohttp
+aiofiles
+httpx
+urllib3
+beautifulsoup4
+lxml
+psutil
+aiohttp-socks
